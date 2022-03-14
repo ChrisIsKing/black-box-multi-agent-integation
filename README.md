@@ -1,6 +1,6 @@
 # One Agent To Rule Them All: Towards Multi-agent Conversational AI
 
-Repository that accompanies [One Agent To Rule Them All: Towards Multi-agent Conversational AI](https://csclarke.com)
+Repository that accompanies [One Agent To Rule Them All: Towards Multi-agent Conversational AI](https://csclarke.com/assets/pdf/ACL_2022.pdf)
 
 ### Multi-agent Data
 The dataset collected for this paper is located in the `./data` folder and consists of all question-response pairs used for training the MARS encoder and evaluating the `question agents pairing` and `question response pairing` approaches.
