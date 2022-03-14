@@ -1,0 +1,7691 @@
+[
+    [
+        "Keto recipe for vegetarian meat dish",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Show me a gluten free bread recipe that takes one hour to bake method",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Please pull up a list of chicken pot pie recipes that use refrigerated crusts.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "show me a no bake dessert recipe",
+        [
+            "recipe"
+        ]
+    ],
+    [
+        "i need instructions on how to make shepherd's pie please",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Show me a savory scone recipe",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What's in a swedish meatball?",
+        [
+            "alexa",
+            "houndify",
+            "dictionary"
+        ]
+    ],
+    [
+        "Show me non vegetarian Italian pasta recipes",
+        [
+            "recipe"
+        ]
+    ],
+    [
+        "show me french toast recipes with cranberries",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what steps are involved in making lasagna",
+        [
+            "google"
+        ]
+    ],
+    [
+        "how do i make lemon merengue pie",
+        [
+            "recipe"
+        ]
+    ],
+    [
+        "can you teach me how to make sushi",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Show me sandwich recipes",
+        [
+            "google"
+        ]
+    ],
+    [
+        "do you know recipe for making apple pie",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Do you have any pasta recipes that don't have too many carbs?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What are some muffin recipes that are gluten free?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "I want a list of eggnog recipes with nutmeg",
+        [
+            "google"
+        ]
+    ],
+    [
+        "i would like you to help me find a chow mein recipe",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Show me a Hungarian goulash recipe.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "i need a quick recipe for spiral ham",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Show me recipes involving cumin and chicken breast",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Show me recipe for pancakes.",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Show recipes that are vegan.",
+        [
+            "google",
+            "recipe"
+        ]
+    ],
+    [
+        "need a recipe for stew.",
+        [
+            "google",
+            "recipe"
+        ]
+    ],
+    [
+        "What is one staple food of Chinese cuisine?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Show me a recipe for caesar salad",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Show me egg free desert recipes",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Show mt a recipe for homemade chocolate pudding.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Show me some shrimp recipes that are easy to make",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Will you please set an alarm for every upcoming holiday this year starting at 7 a.m. the night before?",
+        [
+            "reminders"
+        ]
+    ],
+    [
+        "PLEASE SET MY ALARM AT 5.00 AM",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Make a weekday alarm for 6:45 AM.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Cancel my 7 am alarm for tomorrow",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "cancel my alarm for midnight",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Add note to my 12pm alarm noted \"Lunch\"",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Start alarm timer for 20 minutes",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Turn off alarm",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Cancel alarm for 07:00 on Thursday",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "Set an alarm for 6:30am",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Tell me what alarms are set",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Set alarm for 08:00 every day next week.",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Could you change my 8 AM alarm to 9 AM?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "7 am alarm on",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "set my alaram early morning at 5.am",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "I need my alarm set for 8 AM tomorrow morning.",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Cancel my 10am alarm tonight.",
+        [
+            "alexa",
+            "banking"
+        ]
+    ],
+    [
+        "snooze my alarm for 10 minutes",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "activate from Monday to Friday at 8 am",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Disable my alarm tommorow",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "hey google cancel the 5 am alarm",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Cancel my alarm",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "set my alarm for 6 am in the moring.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How long till the alarm goes off?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Dismiss alarm",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "cancle the alarm every 5 minutes after 6pm",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Can you change the alarm time?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "cancel the alarm 2pm",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "have an alarm set for three in the morning",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Is diet soda healty?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what's the nutritional info for a loaf of bread",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How much fat is in this pizza?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is the healthiest super fruit?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "is ok to eat walnut during night time",
+        [
+            "google"
+        ]
+    ],
+    [
+        "how to control oil food",
+        [
+            "google"
+        ]
+    ],
+    [
+        "i would like you to share with me the nutrition info for chicken nuggets",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "How many calories are in honey crisp apple ?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "what's the nutritional info for chicken breast",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "How much calories are in dark chocolate?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What is the nutritional value of Biryani?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "Does freezing a food change its nutritional value?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "share the nutrition info for spaghetti with me",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Chicken thigh vs chicken breast, which is more healthy?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Is dark chocolate healthier than regular chocolate?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "how many calories in dried mango",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "Is Chocolate milkshake healthy ?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Is street foods are healthy?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "is vegetables are good for health to compare non vegetarian",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "What amount is considered high for sodium?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What is the nutritional value of oreo cookies?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How much calories is in 400 grams of chicken breast?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "how many calories are in pepsi?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How much potassium is in bananas?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "What is the daily recommended amount of salt?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "How many calories are in chicken?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "what's the nutritional value for a pizza lunchable",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "How is diet soda bad for you?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How much salt ahould i ingest daily?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How many calories in a bacon cheeseburger?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How many calories are in a can of beer?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "How many calories are in Yoghurt ?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How many calories in hungry man dinner?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "what is the nutritional value of chicken flavored ramen",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Is brown rice more healthy than white rice?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How much added sugar is considered healthy?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what's the nutritional info for spaghetti",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "what is nutritional value of bananas",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "Albums by Muse",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "List the first ten albums made by Dream Theater",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Show the top ten heavy metal groups of all time.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Songs by Elvis Presley",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "What are some popular songs by Kelly Clarkson ?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "What's the latest song released by Radiohead?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Miley Cyrus most popular song",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What is the top hit today?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What was Earth, Wind and Fire's debut album called",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "How many albums does Drake have?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Give me all Michael Jackson albums from 1990 to 2000",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Top ten rock songs.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How many Grammys has Kanye West won?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "List all the albums by jay-z",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "What was the date of the first UK singles chart?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What is AC/DC\u2019s first album?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Songs by Ultravox",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "How many Foo Fighters albums are there?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "List the top ten songs of 1961.",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Songs by michael jackson from the eighties",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Songs on amnesiac by radiohead",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Donda track list please",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what are the best pop songs of 2021?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Who played guitar for Radiohead",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What is your favorite music",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Albums by Kiss.",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Albums by radiohead in the 2010s",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Lil Nas X latest album",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "List all the albums of Bangtan Boys",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "albums by radioheads",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How many albums does Adele have?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Can you tell me what the best selling album by the band The Cure is?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Show me all the albums by this artist",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Albums by rolling stones",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "I want to hear the most popular hip hop songs",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Frank Ocean music please",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what is the opposite of fast?",
+        [
+            "alexa",
+            "houndify",
+            "dictionary"
+        ]
+    ],
+    [
+        "What is the definition of cap?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What are the opposites and synonyms of quickly?",
+        [
+            "houndify",
+            "dictionary"
+        ]
+    ],
+    [
+        "How do you spell crazy?",
+        [
+            "alexa",
+            "houndify",
+            "dictionary"
+        ]
+    ],
+    [
+        "How do I spell vacuum?",
+        [
+            "alexa",
+            "houndify",
+            "dictionary"
+        ]
+    ],
+    [
+        "Define task",
+        [
+            "houndify",
+            "dictionary"
+        ]
+    ],
+    [
+        "Define evolution to me right now.",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "give examples of pronoun",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What is a colonoscopy?",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "dictionary",
+            "wikipedia"
+        ]
+    ],
+    [
+        "What is the definition of stan?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What is the definition of hollow?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What does \u201caskew\u201d mean?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Can you give me another word of evil",
+        [
+            "houndify",
+            "dictionary"
+        ]
+    ],
+    [
+        "Define holistic.",
+        [
+            "google",
+            "houndify",
+            "dictionary"
+        ]
+    ],
+    [
+        "What is the definition of wokeness?",
+        [
+            "google",
+            "wikipedia"
+        ]
+    ],
+    [
+        "is websters a good dictionary?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "What are meaning and opposite meaning of make?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "What are the opposites and synonyms of tense?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Define evolution",
+        [
+            "google",
+            "houndify",
+            "dictionary",
+            "wikipedia"
+        ]
+    ],
+    [
+        "What are the synonyms for the word fast?",
+        [
+            "houndify",
+            "dictionary"
+        ]
+    ],
+    [
+        "What is the definition of luxurious?",
+        [
+            "google",
+            "houndify",
+            "dictionary"
+        ]
+    ],
+    [
+        "What is the definition of fam?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "define dance?",
+        [
+            "google",
+            "houndify",
+            "dictionary",
+            "wikipedia"
+        ]
+    ],
+    [
+        "How many syllables does the word \"propaganda\" have?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is the opposite of pain?",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what is a synonym?",
+        [
+            "houndify",
+            "dictionary",
+            "wikipedia"
+        ]
+    ],
+    [
+        "What is the synonyms of fast",
+        [
+            "houndify",
+            "dictionary"
+        ]
+    ],
+    [
+        "What is the meaning of Adios?",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "dictionary"
+        ]
+    ],
+    [
+        "What is the definition of suss?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "What is the definition of hi?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What is the defination of virtue?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How many syllables in political?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Define evolution to me quickly.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What does portend mean?",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "dictionary"
+        ]
+    ],
+    [
+        "Define stationary.",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "dictionary"
+        ]
+    ],
+    [
+        "What is the definition of invictus?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Define \u201cintellect\u201d.",
+        [
+            "google",
+            "wikipedia"
+        ]
+    ],
+    [
+        "What is the definition of Help?",
+        [
+            "alexa",
+            "google",
+            "dictionary"
+        ]
+    ],
+    [
+        "Define rudimentary.",
+        [
+            "google",
+            "houndify",
+            "dictionary"
+        ]
+    ],
+    [
+        "words similar to operation",
+        [
+            "houndify",
+            "dictionary"
+        ]
+    ],
+    [
+        "What is definition of blessings",
+        [
+            "houndify",
+            "dictionary"
+        ]
+    ],
+    [
+        "is there anything fun to do in berlin",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what is there to do besides drink in germany",
+        [
+            "google"
+        ]
+    ],
+    [
+        "where do you suggest i plan my next vacation",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what are some fun things i can partake in in atlanta",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what are some good restaurants in chicago",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "show me some things to do in gatlinburg",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what do you recommend to do in vegas",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what can i do in new orleans for fun",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "i wanna know some things to do in phoenix",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "i want to explore a new place but don't know where i should go do you have any ideas",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what are the big tourist sites in sweden",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what should i do for fun in tokyo",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "i want some suggestions for tourist activities in dublin",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what are some suggestions for places to travel",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what's the best place to just get away from it all",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "find out the best tourist attractions to visit in moscow",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "are there any exciting tourist things to do in boston",
+        [
+            "google"
+        ]
+    ],
+    [
+        "give me some ideas of what to do during my trip to dallas",
+        [
+            "google"
+        ]
+    ],
+    [
+        "suggest some things for me to do while i am in los angeles",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "what sorts of activities should i get up to while i am in dublin",
+        [
+            "google"
+        ]
+    ],
+    [
+        "can you give me some fun suggestions for tourists to check out in las vegas, please",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "can you tell me about the best tourist attractions in sweden",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "name some tourist things to do in seattle",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what should i do in france",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "i need some recommendations for fun tourist activities in washington, dc",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "what's a nice place to visit a beautiful beach",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "what's the best place to visit in arizona",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "can you give me some suggestions to go site seeing when i get there",
+        [
+            "google"
+        ]
+    ],
+    [
+        "i am traveling to paris soon and would like some suggestions of what to do and see",
+        [
+            "google"
+        ]
+    ],
+    [
+        "name some tourist things to do in chicago",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "which restaurants in reno are good for sushi",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "find me a good spot for southern comfort food in los angeles",
+        [
+            "google"
+        ]
+    ],
+    [
+        "where are the best places to eat",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "show me some restaurants that have high reviews for eating out",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "i want to eat mediterranean fare with at least four stars, near me",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "give me some good restaurants",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "can you recommend a decent place in chicago to get pizza",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "where's a good place to get some grub",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "please list nearby restaurants with 4 or more star reviews",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "where should i go for good thai food in las vegas",
+        [
+            "google"
+        ]
+    ],
+    [
+        "does brooklyn have good italian restaurants",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "where should i go out for food to",
+        [
+            "google"
+        ]
+    ],
+    [
+        "can you suggest a restaurant for me to eat tonight",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "are there any good places in cleveland that serve clams",
+        [
+            "google"
+        ]
+    ],
+    [
+        "i am hungry and need a restaurant suggestion",
+        [
+            "google"
+        ]
+    ],
+    [
+        "i'm craving for italian food, where should i go",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "i want sushi, is there any good place in ho chi minh",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "can you find any good places in cleveland that serve clams",
+        [
+            "google"
+        ]
+    ],
+    [
+        "any good pizza restaurants around here",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "where should i go for dinner",
+        [
+            "alexa",
+            "google",
+            "coffee"
+        ]
+    ],
+    [
+        "are there some good thai restaurants in san antonio",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "does boise have any good indian restaurants",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "are there any sushi restaurants in reno that have good reviews",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what's a good place to eat chinese in san francisco",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "name a few good steakhouses in chicago",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what's a good place to go to for food around here",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "where can i satisfy my craving for french food in milwaukee",
+        [
+            "google"
+        ]
+    ],
+    [
+        "suggest some restaurants",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "where are the good thai restaurants in atlanta",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "give me some restaurant suggestions",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "where should i go to eat tonight",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what are some good vegan restaurants in broadripple",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "where can i get some good food",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "pull up some recommendations for places serving fish in maine",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "in cleveland, are there any good places that serve clams",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what are the best restaurants",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "name a good restaurant near me",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "find me a new place for dinner",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Multiply ten by two",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "In a triangle, if A is 12 and B is 16, what is C?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is 2.6 percent of 120?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What is the square of twelve",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "plaase subtract ten from two",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "What is two divided by three?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is the cubic root of twenty one",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What is the cubic root of nine",
+        [
+            "google",
+            "houndify",
+            "math"
+        ]
+    ],
+    [
+        "What is 100 divided by 1000",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is two plus ten",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "math"
+        ]
+    ],
+    [
+        "What is two plus thee",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "what is seven times four",
+        [
+            "google",
+            "houndify",
+            "math"
+        ]
+    ],
+    [
+        "What is ten divided by two?",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "math"
+        ]
+    ],
+    [
+        "Divide 20 by 2",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "What is the square root of 10?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "what is 11 squared?",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "math"
+        ]
+    ],
+    [
+        "What is two added to fifteen?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "30 x 5",
+        [
+            "google",
+            "houndify",
+            "math"
+        ]
+    ],
+    [
+        "How many times can I take five from 100?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How big is pi?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "forty minus 17",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "math"
+        ]
+    ],
+    [
+        "what is 6 times 6?",
+        [
+            "alexa",
+            "google",
+            "math"
+        ]
+    ],
+    [
+        "one plus one is ?",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "math"
+        ]
+    ],
+    [
+        "Calculate six thousand divided by seventy seven",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "What is 1,000 times 40?",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "math"
+        ]
+    ],
+    [
+        "Subtract six from nine please",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "math"
+        ]
+    ],
+    [
+        "Calculate twelve percent of six hundred and divide by four",
+        [
+            "alexa",
+            "houndify",
+            "math"
+        ]
+    ],
+    [
+        "How much is 20% of 120?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Convert 5000 yen to Euro",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "Convert $200 to yen right now.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "whats the rate for dollars to euro",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Convert 500 Yen to USD",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "How much amount of dollars should i get for 1000 Euro",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What's the exchange rate for US dollars to Euro?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What's the exchange rate for yen to US dollars?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "100 US dollars equivalent in British pounds",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What is the exchange rate from US dollars to Swiss Franc?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What is U.S. dollar in euros?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Convert 50 dollars to Euros",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "how many cents give 1 euro",
+        [
+            "google"
+        ]
+    ],
+    [
+        "exchange 1000 dollars into japanese yen",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Convert 10000 pesos to US dollars",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "The exchange rate for US dollars and Japanese yen.",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Convert US dollars to Norwegian Krone.",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What's the exchange rate for Brazillian reals to US dollars?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "How many British Pounds is $100?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Convert 100 dollars to British pounds.",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "convert 5 euros to british pounds",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Convert $500 to Turkish Lira",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Convert $10 USD to Peso",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What is the exchange rate from CAD to USD?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "convert $500 to rupees",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "Convert $5000 USD to Yuan",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Convert 1000 yen to USD",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "I have 2000 Canadian dollars, what is the value in US dollars?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is the equation from Yen to Euros?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How much is 10000 Korean won in US dollars?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What is 10 Euro in CAD?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "How much is 10000 Vietnamese dong in US dollars",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "what is a yen worth in pounds",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "convert $100 to yen",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "How do I change this yen to US dollars?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "convert 200 dollars to cedis",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "how many euros can i get with 100 usd",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Convert $200 to yen now.",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Convert 300 Euro to USD",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "recall the things i wanted to remember",
+        [
+            "google"
+        ]
+    ],
+    [
+        "can you remind me what i was trying to remember",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "please read my reminders",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "did i request a reminder for my niece's graduation",
+        [
+            "google"
+        ]
+    ],
+    [
+        "tell me my current reminders list",
+        [
+            "reminders"
+        ]
+    ],
+    [
+        "i want to hear what is on my reminders list",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what kinds of things are you supposed to remind me of",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "please read all the items on my reminder list",
+        [
+            "google",
+            "task_manager"
+        ]
+    ],
+    [
+        "remind me of the items on my list of things to remember",
+        [
+            "alexa",
+            "reminders"
+        ]
+    ],
+    [
+        "go through my reminder list with me please",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "read my reminders please",
+        [
+            "alexa",
+            "google",
+            "reminders"
+        ]
+    ],
+    [
+        "read me my reminders list",
+        [
+            "alexa",
+            "google",
+            "task_manager"
+        ]
+    ],
+    [
+        "do i have a reminder for our neighbor's anniversary",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "check to see if picking up glenn from the airport is on my list of reminders",
+        [
+            "google"
+        ]
+    ],
+    [
+        "i would like to hear you read my reminder list to me",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "did i set up a reminder to clean the bathroom",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what do i have on my list of reminders",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "tell me my reminder list",
+        [
+            "alexa",
+            "google",
+            "reminders"
+        ]
+    ],
+    [
+        "i want to see my reminder list",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what are the items on my reminder list",
+        [
+            "google",
+            "reminders"
+        ]
+    ],
+    [
+        "is the company party on my list of reminders",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "let me know what's on my list of reminders",
+        [
+            "alexa",
+            "google",
+            "task_manager",
+            "reminders"
+        ]
+    ],
+    [
+        "what is my plan for the day",
+        [
+            "google"
+        ]
+    ],
+    [
+        "tell me what is on my reminder list",
+        [
+            "alexa",
+            "google",
+            "reminders"
+        ]
+    ],
+    [
+        "let me know what is on my reminder list",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what did i ask to be reminded about",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "whats on my reminder list, read back",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what things are currently on my reminder list",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "do i have any reminders to look up how to properly do a potato in my microwave",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "i want to know my reminders",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "on my reminders list, is there an item called conference call",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what reminders do i have",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what was it i wanted to remember",
+        [
+            "google"
+        ]
+    ],
+    [
+        "remind me of what i asked you to remember",
+        [
+            "google"
+        ]
+    ],
+    [
+        "confirm that buy a light bulb is on my list of reminders",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "read my list of reminders to me",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what did i put on my list of reminders",
+        [
+            "alexa",
+            "google",
+            "task_manager"
+        ]
+    ],
+    [
+        "what did i want to remember again",
+        [
+            "google"
+        ]
+    ],
+    [
+        "check if getting a light bulb is on my list of reminders",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Search for Yankees games in Boston.",
+        [
+            "houndify",
+            "sport"
+        ]
+    ],
+    [
+        "Find John Mayer tickets for next month?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What are some concerts in Milwaukee this month?",
+        [
+            "event_search"
+        ]
+    ],
+    [
+        "when is the next country concert for dallas?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "are the celtics playing home tomorrow?",
+        [
+            "sport"
+        ]
+    ],
+    [
+        "Will there be any half-time performers at the game?",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "tickets for the dallas mavericks ?",
+        [
+            "event_search"
+        ]
+    ],
+    [
+        "where is the location of the sports coaching?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Find Deadpool in theaters near Knoxville.",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Detroit Lions tickets in Detroit",
+        [
+            "event_search"
+        ]
+    ],
+    [
+        "What's showing at the movie theatre?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Who performs at Harrah's Las Vegas oon New Year's Eve?",
+        [
+            "event_search"
+        ]
+    ],
+    [
+        "What is playing at Madison Square Garden today?",
+        [
+            "event_search"
+        ]
+    ],
+    [
+        "Find me Toronto Raptor tickets for next week",
+        [
+            "event_search"
+        ]
+    ],
+    [
+        "Is there any event happening near me an hour from now",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Search for chicago bulls",
+        [
+            "houndify",
+            "sport",
+            "wikipedia"
+        ]
+    ],
+    [
+        "Are there still tickets available to the Huskies game next week?",
+        [
+            "event_search"
+        ]
+    ],
+    [
+        "Are there any events at the Staples Center?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Search for Milwaukee Bucks schedule",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What movies are playing at 2pm at Irvine Spectrum movie theater?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "How much are tickets to the Disney on Ice performance on Friday?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What movies are playing at the drive in theatre today?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What new movies are released this week?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Is the film playing at the theater next week?",
+        [
+            "event_search"
+        ]
+    ],
+    [
+        "What hockey games are scheduled for this month?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Can you please find tickets for the next time the Brewers plays at home?",
+        [
+            "event_search"
+        ]
+    ],
+    [
+        "Harry styles concerts in July",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "tell me what's showing the the movies tonight?",
+        [
+            "event_search"
+        ]
+    ],
+    [
+        "When is the next Chicago Cubs game?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Translate \u201cyou\u2019re welcome\u201d into Dutch.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "i would like to know how to say hello in french",
+        [
+            "google"
+        ]
+    ],
+    [
+        "which is best for this city?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How do you pronounce the Spanish word for ocean?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "how would i say hello if i were swedish",
+        [
+            "jokes"
+        ]
+    ],
+    [
+        "translate hello in french",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What is the Italian word for Girlfriend?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "whats the spanish word for goodnight",
+        [
+            "google"
+        ]
+    ],
+    [
+        "how do you say hi in french",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Translate I Love you into your language",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Please reset all the timers and manage.",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "please reset all the timers",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "Set the timer at 2 minutes",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Did I already set up a timer for the casserole?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Could you please start a timer for a half hour for dinner?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Cancel my timer",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "Remind me when my 30 minutes break is up.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Remind me in ten minutes to flush the toilet.",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "remind me that time is up in sixty minutes",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Pause the chicken timer real quick.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "When is the timer due to go off ?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Can you start a timer for 20 minutes for my beef?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Set the timer for 30 minutes",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Remind me in five minutes to check the stove",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Starts an food timer for six minutes.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Set the sprinkler timer to go on at 6:00 am, and off at 6:30 am.",
+        [
+            "reminders"
+        ]
+    ],
+    [
+        "Pause the water timer",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Pause the timer that is currently going for the eggs.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "make up a timer for me",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Make sure to set the chicken timer for five minutes starting now.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Reset the microwave oven timer.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Set the pizza timer for ten minutes",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Set the timer at 15 minutes",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "please set a timer for 40 minutes",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Please cancel all existing timers.",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "Cancel all timers",
+        [
+            "alexa",
+            "banking"
+        ]
+    ],
+    [
+        "Start a timer for 15 minutes for end of work.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Start an egg timer for ten minutes",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "how do I prevent my family from getting the virus",
+        [
+            "alexa",
+            "google",
+            "covid"
+        ]
+    ],
+    [
+        "WHAT ARE SIGNS AND SYMPTOMS OF THE CORONAVIRUS DISEASE?",
+        [
+            "alexa",
+            "google",
+            "covid"
+        ]
+    ],
+    [
+        "Where did COVID come from?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "What are the symptoms of COVID-19?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What kinds of things can I do to keep myself from getting covid-19?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How do I stay healthy from covid-19?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How long does it take to get results after being tested?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How COVID-19 is spreading?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What is the number of COVID-19 tests done this week?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "how many are get tested today?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "which covid vaccine is effective ?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "what is covid",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Should I dispose a mask after I use it, or are reusable masks (for example, rewashable fabric masks) acceptable?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "If i get vaccinated can I still get infected with COVID-19?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How often should I be washing my hands?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What are the test available to detect the COVID-19?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "HOW TO SAVE THE WORLD FROM COVID",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Tips for safety from COVID-19",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Will covid-19 vaccines work?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Is there a drug to cure Covid 19?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What country has the lowest COVID fatality rate?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What types of masks are most effective?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "covid prevention, any tips?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What is this virus?",
+        [
+            "alexa",
+            "google",
+            "covid"
+        ]
+    ],
+    [
+        "how should I protect myself from covid?",
+        [
+            "alexa",
+            "google",
+            "covid"
+        ]
+    ],
+    [
+        "What are symptoms of covid ?",
+        [
+            "covid"
+        ]
+    ],
+    [
+        "How we can prevent ourselves from COVID-19?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "If I am diagnosed with COVID, what is my average chance of dying?",
+        [
+            "covid"
+        ]
+    ],
+    [
+        "explain to me what in the world is this virus",
+        [
+            "covid"
+        ]
+    ],
+    [
+        "What's the traffic like between London and Bristol ?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What is the traffic jam between Here to airport?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "If I'd like to arrive at a specific time, when would I need to leave based on current traffic conditions?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Is the traffic on I-65 bad right now?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How much delay in minutes on hwy 407?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Is there a detour I can take?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Is there a traffic jam on my drive to work?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How long does it take to drive to Baltimore?",
+        [
+            "alexa",
+            "adasa"
+        ]
+    ],
+    [
+        "How long will it take me to drive from the Empire State Building to Battery Park?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What's traffic like between London and Bristol?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How bad is this traffic jam this morning?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "What is the traffic on Connecticut avenue?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Is the Burlington Bristol Bridge scheduled for an opening before 10 am?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Is there traffic on I-95?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Can you tell me what you know about the state of the traffic on Route 1?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Is traffic more congested than normal right now?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What's HWY 95 looking like right now?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How long to Toronto?",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what is the fastest route to get from laredo to san antonio",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "is the traffic bad on the way to work",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "traffic looking alright going towards burger king",
+        [
+            "google"
+        ]
+    ],
+    [
+        "i have to know what the traffic typically like at 3:30 on the route to phoenix",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How long does it take to get from Manchester to Leeds?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How long will it take to drive from Phoenix to Tucson?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What is the elevation of Mt. Everest?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "What is the largest country in terms of population?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Who is the current president ?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "how many kids does trump have?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "how old in earth",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is the name of the Queen of England?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "WHAT COMPANY DID ELON MUSK START?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How old is Eiffel tower?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "who is the wife of gandhi",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what was the age of rai lakshmi bai",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What are the ages of Barack Obama and Michelle Obama?",
+        [
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "How many children does Donald Trump have?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "What is the capital of Finland?",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "How old is Betty White?",
+        [
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "Who is Donald Trump's wife?",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "When was the Eiffel Tower built?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "What state has the largest population ?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "who is hitler",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "where is hague located",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "When was construction on the Empire State started?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How old was Elvis Presley when he died?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "who is Hillary Clinton's father",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Who invented Lord of the rings?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Who wrote Hardy Boys?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Where was Brad Pitt born?",
+        [
+            "google",
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "where is the best medicine is manufacturing",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What are the ages of Barack objet Obama and Michelle Obama?",
+        [
+            "google",
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "What is the first skyscraper ever built?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "how old is lisa maire presley?",
+        [
+            "google",
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "Who is Julius caesar?",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "How old is Trump",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "How old is George Takei?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Find the cheapest hotel in DC quick.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "I need a place to stay in Rome this weekend play.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Find the cheapest hotel in Lake Elsinore.",
+        [
+            "houndify",
+            "hotel"
+        ]
+    ],
+    [
+        "Can you find a hotel on June 10 for 4 nights in Beijing?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "can find hotel with pool?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "I need to stay for 3 days and I need a single room in Boston",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "I need a place to stay in Amsterdam this weekend.",
+        [
+            "google",
+            "houndify",
+            "hotel",
+            "event_search"
+        ]
+    ],
+    [
+        "I would like a cheap hotel in Chicago for tonight.",
+        [
+            "google",
+            "houndify",
+            "hotel",
+            "event_search"
+        ]
+    ],
+    [
+        "Please find a hotel in Harrisburg for next Friday.",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "hotel"
+        ]
+    ],
+    [
+        "Find a hotel in London for under \u00a3100 per night.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What is the cheapest hotel in Rome?",
+        [
+            "houndify",
+            "hotel"
+        ]
+    ],
+    [
+        "find a hotel in san francisco for march 8 & 9",
+        [
+            "google"
+        ]
+    ],
+    [
+        "march 20th through the 22nd, please book me a hotel room in manhattan big enough for 10 people",
+        [
+            "event_search"
+        ]
+    ],
+    [
+        "Find a hotel with a bar.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What's the nearest hotel from the airport in Toronto?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "find the most expensive hotel in Hong Kong",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "hotel"
+        ]
+    ],
+    [
+        "Find the cheapest hotel in LA ASAP.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Find a hotel in italy for 10 days",
+        [
+            "google",
+            "houndify",
+            "hotel",
+            "event_search"
+        ]
+    ],
+    [
+        "looking for a hotel under 100 dollars in dallas",
+        [
+            "hotel"
+        ]
+    ],
+    [
+        "can you find me a hotel for 2 people on april 1st to 4th in rome",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Find a hotel in Tokyo starting on April 20 for 5 nights.",
+        [
+            "houndify",
+            "hotel",
+            "event_search"
+        ]
+    ],
+    [
+        "What is the cheapest hotel in Michigan?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "hotel near pasily park in channahassan .",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Show me a good place to sleep.",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Can you show me the cheap hotels in bangkok?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Find a luxury hotel in Minneapolis, MN.",
+        [
+            "alexa",
+            "houndify",
+            "hotel"
+        ]
+    ],
+    [
+        "Find the cheapest hotel in Mexico",
+        [
+            "alexa",
+            "houndify",
+            "hotel"
+        ]
+    ],
+    [
+        "Find the cheapest hotel in Brighton.",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Are there any available places in Toronto to stay for under $200?",
+        [
+            "hotel"
+        ]
+    ],
+    [
+        "Find the cheapest hotel in Temecula.",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "hotel"
+        ]
+    ],
+    [
+        "Find the closest hotel to the stadium.",
+        [
+            "alexa",
+            "houndify",
+            "hotel"
+        ]
+    ],
+    [
+        "I need the cheapest hotel in DC for three nights, starting tomorrow.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What's the nearest hotel to the CN tower?",
+        [
+            "houndify",
+            "hotel"
+        ]
+    ],
+    [
+        "Find me a cheap hotel in Seoul",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Find a hotel in Paris for a single night stay",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "I need a place to stay in Rome this weekend.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "help me find a well reviewed hotel in dallas",
+        [
+            "houndify",
+            "hotel"
+        ]
+    ],
+    [
+        "Find the cheapest hotel in Napa.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Get me the address to a hospital that is no more than 2 miles away.",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Find me the quickest route to the gas station.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Is there a parking garage near?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "I need the closest parking garage.",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "find the address for the grocery store",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Can you help me find the closest shopping center without heavy traffic?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Get the address to the nearest shopping mall.",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Closest coffee",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "Can you find me the closest hospital to me?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Local chinese restaurant is needed pronto.",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Find me a pizza place within 3 miles and avoid all heavy traffic",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Can you find me the fastest route to a pizza restaurant?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Find me a gas station and the quickest way there",
+        [
+            "alexa",
+            "adasa"
+        ]
+    ],
+    [
+        "Address for Starbucks please.",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Find home address that is within the distance of 5 miles.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Find me a chinese restaurant with a no traffic route.",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "I need a hospital",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "Can I find a chinese restaurant?",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "I need the address to a parking garage.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Is there a grocery store within 5 miles?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Find me a gas station that i could get to with the least amount of traffic.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Find me a place where i can enjoy some chinese food around here.",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Can you find me a shopping center?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "Find me the quickest route to the grocery store.",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "Find my home address for me around here in this area.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Find me a gas station that I can get to the quickest without any traffic",
+        [
+            "google",
+            "adasa"
+        ]
+    ],
+    [
+        "Find the shortest distance to a chinese restaurant nearby",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Can you find me a Chinese restaurant that is within 5 miles?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Are there any chinese restaurants nearby?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Find me a chinese spot i could get to the quickest.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Is there a parking garage within 2 miles?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "I need tea.",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "I need to find a grocery store.",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Are there shopping centers nearby?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Find me a route with no traffic to the hospital.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Find a parking garage.",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "I want coffee.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "I need a shopping center within 2 miles.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "I want to do some shopping. Direct me to a mall",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "I need to get home",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Find a chinese joint that is within 3 miles of my location.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "list the morning flights between atlanta and dallas",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "i'd like to see flights from pittsburgh to atlanta",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "what is the earliest flight that has no stops from washington to san francisco on friday",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "show me the flights from denver to atlanta on friday",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "what flights from houston to milwaukee on friday on american airlines",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "list the number of flights leaving boston for dallas fort worth before 6 am in the morning",
+        [
+            "event_search"
+        ]
+    ],
+    [
+        "what flights does delta have between boston and san francisco",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "i would like to see the flights from denver to philadelphia please",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "give me flights from pittsburgh to baltimore",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "i need a flight from boston to pittsburgh that leaves early in the morning",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "list all american airlines flight from milwaukee to phoenix on sunday",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "show me all round trip flights between houston and las vegas",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "list all the flights that fly into general mitchell international",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "are there any nonstop flights leaving from denver arriving in baltimore on july seventh",
+        [
+            "alexa",
+            "event_search"
+        ]
+    ],
+    [
+        "what flights leave from nashville to phoenix",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "what are the evening flights from atlanta to baltimore",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "what are the flights from san francisco to denver",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "show me the flights from san francisco to boston",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "show me the latest flight from denver to boston",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "information on flights from denver to philadelphia",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "show all flights with first class from baltimore to dallas",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "flights from newark to boston",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "flight information from san francisco to pittsburgh",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "what time is it in the central timezone",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what time is it in paris",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what time is it in glenwood springs, co",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what time is it in the mountain standard timezone",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "is it after noon",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "what time is it in north korea",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "in pacific time, what's the current time",
+        [
+            "google"
+        ]
+    ],
+    [
+        "look up the time in california",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what time is it currently in istanbul",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what time is it exactly",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "what's the current time",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "tell me the time in las vegas",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what hour and minute is it",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "the current time",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what time is it now",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what's the time in london",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "given my time, what time is it in mst",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "can you tell me the time",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "what time would it be in rome right now",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what's the time in london right now",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what time is it in punta gorda, florida",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "what time of day is it in london",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "can you tell me the current time in the pacific timezone",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what is the current time in dallas",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what is the time is central time zone",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "what hour is it in london",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what is the time in paris now",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what's the time right now",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what is the current time in cst",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "tell me what time it is right now",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what time is it in the eastern standard timezone",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "what is the time",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "please give me the time in tanzania at this moment",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what is the time right now in the peruvian time zone",
+        [
+            "google"
+        ]
+    ],
+    [
+        "in the eastern timezone, what time is it now",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what time is in over there in pacific standard time",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what time is it exactly in the new zealand time zone",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "how lbs in a cubic feet?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "how many centimeter make a meter",
+        [
+            "google"
+        ]
+    ],
+    [
+        "50ml to litres",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "How many meters is 1 yard?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How many ounces in a pound?",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "How many liters in a gallon?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "What's 3 pounds in kilos?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Convert pounds to grams.",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "convert 200 kilogram to gram",
+        [
+            "google"
+        ]
+    ],
+    [
+        "convert 1 bit into bytes",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Please tell me how many inches are in 6 feet of tape?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How to convert grams into kilograms",
+        [
+            "google"
+        ]
+    ],
+    [
+        "how many inches is 5 feet",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "how many inches in a cm?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How many meters are in 87 miles?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "How many miles are in 8 kilometers?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "How many inches are in a feet?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "how to convert feet into inches?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Convert 40 centimeters to inches",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "How many feet are in a meter?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "HOW MANY METERS ARE THERE IN 10 KILOMETERS?",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Convert the pounds",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "how many square feet is in an acre",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "How many feet are in a mile.",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "How many grams are in an ounce?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "How much liters in the ounce?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "What does 1 gallon of water convert to in liters?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How many feet is 3 meters?",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "1.91 m in feet.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How many centimeters in an inch?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "change 50 kg into pounds",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "how many feet are in a kilometer",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "convert 4 kilograms to pounds",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How many miles equals a kilometer?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "HOW MANY METERS ARE THERE IN A KILO METER?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How many kilograms in a pound?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Can you convert 10 pounds into kilograms?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How many tablespoons in a Cup?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Can you tell me a joke",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Tell me a kid friendly joke.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Can you cheer me up with a joke?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Do you know a joke?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Joke around",
+        [
+            "google"
+        ]
+    ],
+    [
+        "tell something funny",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Can you please share a funny joke with me?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Tell me a new joke that will make me smile today.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Do you know any your momma jokes?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "please tell me a joke about dinosaurs",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Tell me a funny joke.",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "make me happy",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "are you Like Laugh",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Which is your favorite jokes...?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "will you tell a joke",
+        [
+            "jokes"
+        ]
+    ],
+    [
+        "i want to hear a corny joke.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Make me laugh?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Do you know any funny jokes?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "What's your favourite joke?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "i'd love to hear a joke",
+        [
+            "google",
+            "jokes"
+        ]
+    ],
+    [
+        "Heard any good jokes lately?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Go on, give me your best one.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "tell a master piece joke",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What's the last joke you've told?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Tell me an adult joke.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "tell me something that's going to make me laugh?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Tell me a witty joke right now",
+        [
+            "houndify",
+            "jokes"
+        ]
+    ],
+    [
+        "I want to hear a really good joke.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Can you tell me a joke to make my friend laugh?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Tell me a witty joke.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "tell me something funny?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Tell me a witty joke...?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Tell me a good joke",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Tell me a knock knock joke",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Crack me a joke.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Make me laugh out loud with a joke.",
+        [
+            "google",
+            "jokes"
+        ]
+    ],
+    [
+        "What football teams are playing this Sunday?",
+        [
+            "alexa",
+            "houndify",
+            "sport"
+        ]
+    ],
+    [
+        "Who won the World Series in 1990?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "What is the NFL schedule for the Kansas City Chiefs?",
+        [
+            "google",
+            "houndify",
+            "sport"
+        ]
+    ],
+    [
+        "What's the score of the Tampa Bay Buccaneers vs Philadelphia Eagles game?",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "sport"
+        ]
+    ],
+    [
+        "Did the Red Sox win last night?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What was the ranking of the United States in the last Olympics?",
+        [
+            "sport"
+        ]
+    ],
+    [
+        "What baseball games are on tonight?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "How many interceptions has Trevor Lawrence thrown this season?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "When were the opening ceremonies for the 2016 Olympics in Rio de Janeiro and the 2014 Winter Olympics?",
+        [
+            "sport"
+        ]
+    ],
+    [
+        "Did the Patriots win?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What was the final score of the Lakers game last night?",
+        [
+            "google",
+            "houndify",
+            "sport"
+        ]
+    ],
+    [
+        "who played last night against the raps?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Who won last night's football game?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Who won the game last week?",
+        [
+            "google",
+            "houndify",
+            "sport"
+        ]
+    ],
+    [
+        "When is the next Seahawks home game?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Where are and when are the next olympics?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Who is the highest run scorer?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What was the score of the Reds game?",
+        [
+            "houndify",
+            "sport"
+        ]
+    ],
+    [
+        "When is the next vikings game?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Who won the MLS Western Conference Finals?",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "sport"
+        ]
+    ],
+    [
+        "Are the Braves still in the National League playoffs?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Which countries ranked 3rd in gold medals in the last summer Olympics and 4th in silver medals in the last winter Olympics?",
+        [
+            "sport"
+        ]
+    ],
+    [
+        "Did the Raptors win?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Who was the high scorer for the Celtics last night?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is the score of the Minnesota Vikings and Green Bay Packers game?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "How old is Lebron James?",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "sport",
+            "wikipedia"
+        ]
+    ],
+    [
+        "What's the score Alabama Crimson team?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Who is the home run leader for the Red Sox this year?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How many gold and silver medals did Canada and the United States win in 1998 and 2000?",
+        [
+            "sport"
+        ]
+    ],
+    [
+        "What's the score of the Nets game?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "who was the highest goal scorer is the EURO 2020",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What's the balance on my latest bill?",
+        [
+            "mobile",
+            "banking",
+            "event_search"
+        ]
+    ],
+    [
+        "when is my bills due?",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "How can I change the credit card on file for my bill?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "bill due date?",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "How much is my bill for October?",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "What is the message rate for international services?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "I want to downgrade my plan, what do i need?",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "Upgrade my plan",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "When is my bill due for the recent data usage?",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "How much is my bill as of today",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "What is the current total on my bill?",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "what is the due date of the bill ?",
+        [
+            "dictionary",
+            "mobile"
+        ]
+    ],
+    [
+        "bill charges for December",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "How much data was used this month?",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "What is my remaining data usage for this month?",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "When am I to pay for my bill?",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "Can I pay my bill early?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "I want to switch my plan to Unlimited data",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "Got any good plan upgrades for my current contract?",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "How much is my bill going to be at the end of the month?",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "what are the charges on my bill this month",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "What is my daily average data consumption?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Is roaming free and available in the EU?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "due dates for my bills?",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "I'm going to Italy next week, will I be covered?",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "How much will cost me new phone ?",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "help me upgrade my data plan?",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "How much am i supposed to pay for last month?",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "How can I upgrade my data plan?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "PLEASE WHEN WILL MY DATA PLAN EXPIRE?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How much to upgrade my data package?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How much more expensive are other plans?",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "Can I get an iced coffee with a shot of espresso.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Can I get an iced coffee with no cream?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "I'd like a coffee to go",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "I'd like a coffee to go.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "i would like a creamy coffee",
+        [
+            "coffee"
+        ]
+    ],
+    [
+        "strawberry cupcake please",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "I would like a small carmel macchiato with whip cream",
+        [
+            "coffee"
+        ]
+    ],
+    [
+        "Can I order a dozen doughnuts to go?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "I'll have a strawberry milkshake with an blueberry muffin",
+        [
+            "coffee"
+        ]
+    ],
+    [
+        "I'd like a coffee to go?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "I would like to order a medium ice mocha latte with oat milk",
+        [
+            "coffee"
+        ]
+    ],
+    [
+        "Two large black coffees, please.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "can i have a peice of cake with that coffee?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Can I get a small iced latte with low fat milk right away?",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Butter on a hard roll to go..",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Can I get a bagel toasted with cream cheese.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Can I get a small iced latte with low fat milk right now?",
+        [
+            "coffee"
+        ]
+    ],
+    [
+        "3 bagels please",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Can I order black coffee?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Can I get a small iced latte with low fat milk",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Is it supposed to rain in brentwood tomorrow?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Will it be foggy in downtown Chicago on Tuesday?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Today in Menlo Park, will it be misty?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Is the weather overcast in grand rapids now?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Is it going to drizzle in Boston this week?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "Is there going to be hail in Los Angeles this weekend?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Is it gonna be foggy in Exeter on next week?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Is durham stormy right now?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Will it be humid in Manhattan today?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Will it be raining this week in Redwood City?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Check to see if it will be windy in brentwood the next few days",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Is there supposed to be a blizzard in brentwood on friday?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "Will it be misty in compton the next seven days?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Is it currently windy in fresno?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Is it overcast now in Grand Rapids?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "In new york will it be foggy this week?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Will it be frost during the weekend in Boston?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Is it foggy in exeter today",
+        [
+            "event_search"
+        ]
+    ],
+    [
+        "Is it gonna drizzle in Manhattan during the next seven days?",
+        [
+            "alexa",
+            "houndify",
+            "event_search"
+        ]
+    ],
+    [
+        "Is it gonna be misty in Corona on Monday?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Is it gonna rain in Camarillo today?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Is it gonna be misty in San Francisco on Tuesday?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "Will it be stormy in Carson on Sunday?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Is it gonna frost today in Cleveland?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Is it going to be hot this weekend in Boston?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Will it be misty in Los Angeles today?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Will it be stormy in Redwood City on Wednesday?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Is it gonna be hot in Atherton today?",
+        [
+            "google",
+            "houndify",
+            "event_search"
+        ]
+    ],
+    [
+        "Will it be cloudy in Manhattan tomorrow?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Is it misty in Oakland now?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "Will it be stormy in San Mateo on Sunday?",
+        [
+            "houndify",
+            "event_search"
+        ]
+    ],
+    [
+        "Is it gonna drizzle in Durham during the week?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "In the next 48 hours will it rain in alhambra?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "tell me what the date tomorrow is",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "i'd like to know what the date is",
+        [
+            "google"
+        ]
+    ],
+    [
+        "would you please tell me today's date",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "let me know what today's date is",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what date is tomorrow",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what would the date be 5 days from today",
+        [
+            "google"
+        ]
+    ],
+    [
+        "i need to know what date it is tomorrow",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what day is it",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what is the date in 5 days",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "what is the date for tomorrow",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "would you let me know today's date",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what is the full date after today",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "give me tomorrow's date please",
+        [
+            "google"
+        ]
+    ],
+    [
+        "today is what day of the week",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what is the month and day tomorrow",
+        [
+            "google"
+        ]
+    ],
+    [
+        "can you tell me what today's date is",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "i would like to get today's date",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what day is it gonna be in twenty-one days",
+        [
+            "google"
+        ]
+    ],
+    [
+        "please tell me what date it is today",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what is the date of tomorrow",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "What does it say tomorrow is",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "what's the day of the week",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "after another eight days, what day will it be",
+        [
+            "covid"
+        ]
+    ],
+    [
+        "today's date is what",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "let me know what tomorrow's date is",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "what day is it today",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "tell me what the date will be tomorrow",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what is the date tomorrow, please",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what's today",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "tell me the date, please",
+        [
+            "google"
+        ]
+    ],
+    [
+        "tell me what the date will be in 5 days",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "what's the date tomorrow, please",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "can you tell me the date today",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "what is today",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "How much was my last deposit",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "How much is in my savings account.",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "When is my next credit card payment due?",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "What is account B's remaining balance?",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "when is the payment due on the my card",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "How do I make payment on my credit card",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Transfer 250 dollars to my checking account.",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "How much was my last deposit?",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "Please transfer 50$ from my savings to my credit card.",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "When was my last direct deposit",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Check my Checking balance.",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "Transfer $100 from my checkings to my savings",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "Transfer my check amount from checking to savings.",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "Transfer $50 to checking from savings.",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "What is my current checking account balance?",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "Withdraw $80 from my checkings",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "check my savings account",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "check my bank balance",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "What is my credit card balance?",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "show available money on my checking account",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "check the amount of my last credit",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "When can we schedule a meeting?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "When is my next meeting?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Do I have any meetings today at 1:00 PM?",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "any meetings this week?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "How many meetings do I have today?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Do I have a meeting at 1pm today?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "does my calendar include an event called shana's baby shower",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "what do i have planned for tomorrow",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Add today's flight to my calendar",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Cancel my 12pm",
+        [
+            "alexa",
+            "banking"
+        ]
+    ],
+    [
+        "What do I have scheduled on October 18?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "What time is my Tuesday morning meeting?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "On what day is my meeting next week?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Cancel the conference call from 5 to 6 PM.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "I need to keep my 3pm slot open.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "do i have anything on my calendar for may 3",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "does my calendar have anything for january 1st",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Cancel my 3pm",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "Cancel my 4pm appointment",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "Schedule a meeting at 2pm",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Schedule a 3am meeting titled \"Study Hour\"",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What meetings do I have this Thursday afternoon?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "Did I cancel my Tuesday meeting at 9 a.m.?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is the current population of the continent of Africa",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "How far is France from Florida?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "How tall is Mount Everest?",
+        [
+            "google",
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "What countries does China border",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "What is the capital of Missouri?",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "what is the highest recorded value of earth quake in japan",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is population of Australia in 2021?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "What's the largest ocean?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Who is Juneau, Alaska named after?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "What is the state capital of Western Australia?",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "What is the population of Sri Lanka 2002",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is the area of Japan in square kilometers",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What is the capital of South Korea",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What is the population of Canada in 2001",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What was the population of China in 2020?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is the population of Japan in 1998",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "What is the population of the United States?",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "Where is Devil's Kettle?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What is the capital of australia and the population of Tokyo",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "What is the capital of Canada",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "what is the total water mass area in the world",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How big is Antarctica?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "How tall is Mt. Everest?",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "What is the population of Japan in 1999",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "What is the capital of California and the population of Tokyo",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What is the longest river in the world?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "What is the population of India in 2021",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "What is the capital of Australia?",
+        [
+            "alexa",
+            "wikipedia"
+        ]
+    ],
+    [
+        "What is the population of USA in 1998",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is capital of England",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Where is Mount Vernon?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "What is the tallest mountain in the United States?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "HOW MANY PEOPLE LIVE IN BROOKLYN. NEW YORK?",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "what is the area of texas",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "What is the population of Moscow?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What is population of Germany in 2021?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "what is the touriest place best in all over worls",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is the capital of Mexico",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "what is the population of america in 2019",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is the area of France?",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "What is the area of the Panama Canal in square kilometers?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Where is the Great Barrier Reef?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Give me a number between 100 and 1000",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Flip a coin for me",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Give me a number between 0-100",
+        [
+            "google"
+        ]
+    ],
+    [
+        "lets flip for it",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Give me a random number between 5 and 200",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Heads or tails",
+        [
+            "google"
+        ]
+    ],
+    [
+        "toss a coin i will take heads",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Give me a random number between 10 and 200",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "i want a coin flip",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Select a random number from 50 to 300.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "i need you to flip a coin so i can decide",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Pick a number between 1 and 100",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Roll a five-sided dice and tell me top number.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Flip a coin right now.",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "please flip the coin over",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Give me a integers number between 10 to 100",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "if you flip a coin, i call tails",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Roll a dice",
+        [
+            "google"
+        ]
+    ],
+    [
+        "i need to do a fair coin flip",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Give me a number between 20 and 100",
+        [
+            "google"
+        ]
+    ],
+    [
+        "i need you to flip a coin so i can make a choice",
+        [
+            "google"
+        ]
+    ],
+    [
+        "please flip a coin and tell me what side it lands on",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Give me a random number between 10 and 150",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Roll the dice once",
+        [
+            "google"
+        ]
+    ],
+    [
+        "can you do a coin flip",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "ai, heads or tails",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Flip a coin please",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Generate a number.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Roll the dice twice",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Roll a dice twice",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Give me a random number between 1 and 1000.",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Roll a dice five times",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Give me a number between 10 and 35",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Pick a number between 1 and 10.",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Give me a random number between 10 and 100",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Roll three dice and add the numbers.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Are there problems with the adaptive cruise control function?",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "ACC mode on max speed 70 gap 3",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Do I have a lot of deisel left",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Can I get to Chicago",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "And acc is?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Assist me in understanding if the steering help is on.",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Am I driving using the adaptive cruise control?",
+        [
+            "google",
+            "adasa"
+        ]
+    ],
+    [
+        "Check to see how much gas I have left.",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Can you explain how exactly the Lane Keep Assist works?",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Am I cruising?",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "60 mph cruise control please",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "ACC mode activate, 70 mph, gap distance 2",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Are there any safety issues with adaptive cruise control?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Aid mode explanation",
+        [
+            "google",
+            "adasa"
+        ]
+    ],
+    [
+        "60 is the acc speed id like",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "And do you know what acc is?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Can I get all the way to my destination on the gas I have, or wil I need to stop and gas up at least once",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Can it be dangerous to use adaptive cruise control?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Activate alert mode now.",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Are both aid mode and alert mode on at the moment?",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Check my fuel level, please.",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Activate aid mode",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Adaptive cruise control status please.",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Can I at lease get to Atlantic City with the gas I have",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "ACC on Speed 70 gap 2 cars",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Activate ACC and set to speed of 65",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Are there any disadvantages to adaptive cruise control",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Can you tell me if I have Lane Keeping Assist on for all functions?",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Are there any precautions to take with adaptive cruise control?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Do I have a lot of gas left",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Notify me whenever aid mode is active?",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "Can my adaptive cruise control automatically slow down if it starts to snow?",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "I need to know if the lane keeping assist is on.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Are both modes on currently?",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "What is the stock price of apple?",
+        [
+            "alexa",
+            "houndify",
+            "stock"
+        ]
+    ],
+    [
+        "Could you let me know what the stock price of Facebook is?",
+        [
+            "stock"
+        ]
+    ],
+    [
+        "Stock price of Motors.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Who is on top of the stock market today?",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "stock price of apple?",
+        [
+            "alexa",
+            "houndify",
+            "stock"
+        ]
+    ],
+    [
+        "How many shares of Twitter traded today?",
+        [
+            "houndify",
+            "stock"
+        ]
+    ],
+    [
+        "What volume of shares for Amazon were traded today",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Highest stock price of Google this year.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Compare the price of Apple Incorporated to Facebook.",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What was the closing price of Tesla today?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What is the opening price of Microsoft corp?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "what is the price of tesla stock this morning?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Compare SPY to FXAIX please",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is the current price of Teams stock?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "can you tell me stock symbol for gm?",
+        [
+            "alexa",
+            "houndify",
+            "stock"
+        ]
+    ],
+    [
+        "Stock price for motors",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Can you check the last trading price of Apple",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is the stock price of microsoft?",
+        [
+            "alexa",
+            "stock"
+        ]
+    ],
+    [
+        "Compare the price of Apple Incorporated to Facebook quick.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Stock price of AT&T.",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "compare the price of apple incorporated to facebook",
+        [
+            "houndify",
+            "stock"
+        ]
+    ],
+    [
+        "Stock price of Bike.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What stocks have had the greatest return for the year",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Stock price of Space X",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Stock price of Motors",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "what is the net worth of facebook",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How is the stock of Facebook doing compared to the stock of Apple?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "What is the stock quote of Bank of America",
+        [
+            "alexa",
+            "houndify",
+            "stock"
+        ]
+    ],
+    [
+        "what is the update of Apple stock?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Split a purchase of $4.56 between 6 people.",
+        [
+            "alexa",
+            "houndify",
+            "math"
+        ]
+    ],
+    [
+        "calculate 10% tip for 80",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "add 20 $ to the 50$ tip",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What percentage tip is 12 dollars on a $79 bill?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Calculate 15 percent tip for 100 dollars",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "How much is $85 plus a 20% tip?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Calculate 20% tip on $69",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Split $66.52 check 2 ways with 20% tip included.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "I want to leave a twenty percent tip on sixty dollars, how much is that?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "how much is 5% tip of the total amount of 400?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How much is $75 plus a 25% tip?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Calculate a 20% tip on $63",
+        [
+            "alexa",
+            "math"
+        ]
+    ],
+    [
+        "Calculate 10% tip on $200",
+        [
+            "alexa",
+            "houndify",
+            "math"
+        ]
+    ],
+    [
+        "What is a 20 percent tip on 55.49?",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "math"
+        ]
+    ],
+    [
+        "Calculate 20% tip on $67",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "I'd like to know what a 20% tip is going to run me on my bill that came out to $55.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How much is $78 plus a 22% tip?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is 20% of $85.00",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Split a $90 check 4 ways, with a 20% tip included.",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "distribute $50 six ways",
+        [
+            "coffee"
+        ]
+    ],
+    [
+        "How much is $80 plus a 10% tip?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is my tip for a $25 bill at 15 percent?",
+        [
+            "mobile"
+        ]
+    ],
+    [
+        "What is 76.50 divided by 3? What is 20% of 25.50? What is 5.10 plus 25.50= $30.60 each",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "What is 18% of $20?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Take 15% tip for 65.7",
+        [
+            "alexa",
+            "houndify",
+            "math"
+        ]
+    ],
+    [
+        "Split a $324.76 3 ways, with a 25% tip included",
+        [
+            "houndify",
+            "math"
+        ]
+    ],
+    [
+        "Calculate a 15% tip on $34.17",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "What is 20% of $53.86?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Calculate 20% tip on 14.57",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "what is the total bill for $50 plus 12% tip?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How much is 20% of $83?",
+        [
+            "adasa"
+        ]
+    ],
+    [
+        "How much is $85 plus a 15% tip?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How much is $21.67 plus 20% tip?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "150 pounds + 10 percent tip for 5 person",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "What is a 30 percent tip for a 200 dollar order?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Calculate a 15% tip on $7.50.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Is there any life on planet Mars?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Wikipedia Dexter TV series.",
+        [
+            "wikipedia"
+        ]
+    ],
+    [
+        "What nationality is Donald Trump?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "When was the calendar invented?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What is modern monetary theory?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Which country started the Pearl Harbour War?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Capital of Italy",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Who is Steven Tyler?",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "more info on l.a?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Look up Booker T Washington",
+        [
+            "alexa",
+            "wikipedia"
+        ]
+    ],
+    [
+        "Where is Minnesota located?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "What is the third river with greatest discharge in Europe?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Who is Marilyn Monroe?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "What is the continent of the longest river in the world and what are the three rivers with greatest discharge there?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Who won the most gold medals in the last Tokyo olympics",
+        [
+            "alexa",
+            "google",
+            "sport"
+        ]
+    ],
+    [
+        "Who is Jeon Jung-Kook?",
+        [
+            "google",
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "Who is the premier of Ontario?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "who is bin ladon",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Tell me about the Julian calendar.",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "Where is the Statue of Liberty located?",
+        [
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "What country has the largest population?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Who is Barack Obama its my friend?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Who is Barack Obama",
+        [
+            "google",
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "Tell me about Yale",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "any facts about NYC",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How many children does Madonna have?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "How many digits has pi been counted out to?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Where did Red Fort located?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Tell me about Taj Mahal",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Can you give me a bio for Cleopatra?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What are the two longest rivers in Germany, New York, and Oceania?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "tell me about Drake",
+        [
+            "google",
+            "wikipedia"
+        ]
+    ],
+    [
+        "Wikipedia Brad Pitt",
+        [
+            "wikipedia"
+        ]
+    ],
+    [
+        "did prince have children?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Can you tell what Aggregate is?",
+        [
+            "google",
+            "houndify",
+            "dictionary",
+            "wikipedia"
+        ]
+    ],
+    [
+        "How many students attend um?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Find Metropolitan Museum on Wikipedia.",
+        [
+            "alexa",
+            "google",
+            "houndify",
+            "wikipedia"
+        ]
+    ],
+    [
+        "who is elvis presley?",
+        [
+            "alexa",
+            "google",
+            "houndify"
+        ]
+    ],
+    [
+        "was prince married?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How old is President Joe Biden?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "How old I am in days if I was born in 5 months ago?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How old will I be on May 2, 2018 if I was born on November 1989",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "How old am I if I was born on October 15, 1988?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "i'd love to hear when you were born",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How old would someone be if they were born May 15 1920?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "If i was born on 6/6/66, when will i be 71 years old?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How old am I if I was born on July 4, 2011?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "When will my 79th birthday be if i was born on 07/04/1955?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "tell me your age please",
+        [
+            "houndify",
+            "banking"
+        ]
+    ],
+    [
+        "how old will i be in 2 months?",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "How old would I be if I was born in 2024?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How many weeks old is my baby if she was born on August 15, 2021?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "how old are you?",
+        [
+            "houndify",
+            "banking"
+        ]
+    ],
+    [
+        "How old will I be in 23 years on this day if I was born on October 29th, 1993?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How old is my dog who was born January second 2015",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How old will be mother be in 5 years if she was born in 1911",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "How old am I if I was born on January 10, 2015?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "How old will I be on May 13, 2025 if I was born on October 29, 1993?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "How old am I if I was born on October 15, 1987?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "How old am I in days if I'm 24 years and 3 months old?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How old am I in days if I was born on October 15, 1988?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Exactly how many days have I been alive if I was born on December 5, 1977?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "When will I turn 50?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "How much older would I be compared to somebody if they were born on Dec 1, 1990?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How old am I in months if I was born on Dec 1, 1990",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "How old am I if I was born on February 29 1996?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "How old is a person that was born on February 3, 1972?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "How old am I in days if I was born on October 15, 1988?How old am I in days if I was born on October 15, 1988?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How old am I currently given that my birthday is May 12, 1993?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "How old am I if I was born on October 20, 1987?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How old I am today if I born March 01, 1984?",
+        [
+            "alexa",
+            "houndify"
+        ]
+    ],
+    [
+        "If my birthday is May 12, 1993 how old am I?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How old is Emma Watson?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Do I have homework on my todo list?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Show me my shopping list.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How many items do I have on my shopping list?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How many items are on my morning routine list?",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "LIST MY DOCTOR APPOINTMENTS FOR MAY",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "Start a new list for my grocery store trip this Saturday.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "add read my texts to my todo list",
+        [
+            "task_manager"
+        ]
+    ],
+    [
+        "Make a school supplies list",
+        [
+            "alexa",
+            "task_manager"
+        ]
+    ],
+    [
+        "Delete my todo list now.",
+        [
+            "google",
+            "banking",
+            "reminders"
+        ]
+    ],
+    [
+        "Add \"maintain lists\" to my list.",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Created to-do list called jobs",
+        [
+            "google"
+        ]
+    ],
+    [
+        "What in my shopping list?",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "is changing the water filter on my to do list right now",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "How many items are on my shopping list?",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "DELETE CARROTS FROM MY GROCERY LIST AT ACME",
+        [
+            "houndify"
+        ]
+    ],
+    [
+        "do i have any birthdays on my todo list",
+        [
+            "alexa",
+            "task_manager"
+        ]
+    ],
+    [
+        "Make a tech toys list",
+        [
+            "google",
+            "task_manager"
+        ]
+    ],
+    [
+        "Add veggies to my shopping list",
+        [
+            "alexa",
+            "google"
+        ]
+    ],
+    [
+        "Please make sure my homework assignment gets added to my to do list.",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Did I already place milk on my shopping list",
+        [
+            "alexa"
+        ]
+    ],
+    [
+        "Create a list for camping",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Start a grocery list",
+        [
+            "task_manager"
+        ]
+    ],
+    [
+        "Add a new list called music list.",
+        [
+            "task_manager"
+        ]
+    ],
+    [
+        "What is first on my todo list?",
+        [
+            "google"
+        ]
+    ],
+    [
+        "Remove all items on my todo list",
+        [
+            "banking"
+        ]
+    ],
+    [
+        "Add coffee to my shopping list",
+        [
+            "alexa",
+            "google",
+            "task_manager"
+        ]
+    ],
+    [
+        "Add Singapore in my tour list",
+        [
+            "alexa",
+            "task_manager"
+        ]
+    ],
+    [
+        "Make a todo list",
+        [
+            "google"
+        ]
+    ],
+    [
+        "what do i have to do tomorrow, according to my to-do list",
+        [
+            "task_manager"
+        ]
+    ],
+    [
+        "please make list for shopping",
+        [
+            "google"
+        ]
+    ],
+    [
+        "create dress shopping list",
+        [
+            "google",
+            "task_manager"
+        ]
+    ]
+]
