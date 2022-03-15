@@ -19,7 +19,7 @@ This file contains the curated textual descriptions of each of the conversationa
 This file contains all question response pairs. Each dict object consists of the following:
 1. `human_vote`: lists the vote count from crowd workers for each of the agent responses.
 2. `intent`: intent of the question.
-3. `human`: contains list of agents that achieved > 3 numbers.
+3. `human`: contains list of agents that achieved > 2 votes.
 
 Here is an example format:
 ```json
