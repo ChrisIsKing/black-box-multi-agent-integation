@@ -11,7 +11,7 @@ Our [MARS Encoder](https://huggingface.co/csclarke/MARS-Encoder)(Multi-agent Res
 ### Usage and Performance
 
 MARS Encoder can be used like this:
-```
+```python
 from sentence_transformers import CrossEncoder
 model = CrossEncoder('csclarke/MARS-Encoder')
 scores = model.predict([('question 1', 'response 1'), ('question 1', 'response 2')])
@@ -36,7 +36,7 @@ label_map = ['alexa', 'google', 'houndify', 'recipe', 'dictionary', 'task_manage
 model = CrossEncoder('csclarke/MARS-Encoder')
 
 # load test data
-test = json.load(open('data/rankings/test.json'))
+test = json.load(open('data/test.json'))
 
 total = 0
 count = 0
