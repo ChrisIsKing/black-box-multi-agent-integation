@@ -1,8 +1,20 @@
 # Data for paper: One Agent to Rule them All: Towards Multi-agent Conversational AI
 
+This dataset is for evaluating the task of Black-box Multi-agent Integration which focuses on combining the capabilities of multiple black-box conversational agents at scale. It provides data to explore two main frameworks of exploration: question agent pairing and question response pairing.
+
 ### Dataset statistics
 
-Conversational agents: Alexa, Google, Houndify, Recipe agent, Dictionary agent, Task Manager, Hotel agent, Stock, Math agent, Sports agent, Wikipedia agent, Mobile Account agent, Banking agent, Coffee shop agent, Event Search agent, Jokes agent, Reminders agent, Ford Adasa, Covid-19 agent
+Overall our dataset contains 5550 utterances with 19 question-response pairs per question (one from each of the 19 agents), 105,450 in total across 37 domains. The utterances are split into 3700 utterances (100 examples per domain) for the training set and 1850 (50 per domain) for the test set. The train and test sets respectively contain 2399 and 1186 utterances with at least one positive question-response pair. In the remaining examples, none of the agents were able to achieve annotator agreement (>= 3).
+
+Conversational agents (n=19):
+```python
+['alexa', 'google', 'houndify', 'recipe', 'dictionary', 'task_manager', 'hotel', 'stock', 'math', 'sport', 'wikipedia', 'mobile', 'banking', 'coffee', 'event_search', 'jokes', 'reminders', 'adasa', 'covid']
+```
+
+Domains (n=37): 
+```python
+['sports', 'hotel', 'wikipedia', 'knowledge', 'recipe', 'jokes', 'covid', 'arithmetic', 'time', 'flight_info', 'weather', 'restaurant_suggestion', 'age', 'geography', 'mobile', 'alarm', 'tip', 'unit_convert', 'translate', 'reminders', 'auto', 'nutrition', 'currency_convert', 'event_search', 'date', 'todo', 'coffee_shop', 'banking', 'calendar', 'dictionary', 'timer', 'travel_suggestion', 'traffic', 'music', 'rand', 'directions', 'stock']
+```
 
 Train: 3700 (2399 w/gold response/agent)
 
