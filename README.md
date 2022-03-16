@@ -1,4 +1,5 @@
 # One Agent To Rule Them All: Towards Multi-agent Conversational AI
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/one-agent-to-rule-them-all-towards-multi-1/multi-agent-integration-on-bbai-dataset)](https://paperswithcode.com/sota/multi-agent-integration-on-bbai-dataset?p=one-agent-to-rule-them-all-towards-multi-1)
 
 Repository that accompanies [One Agent To Rule Them All: Towards Multi-agent Conversational AI](https://csclarke.com/assets/pdf/ACL_2022.pdf)
 
